@@ -1,0 +1,22 @@
+{
+  "Links": [
+    {
+      "key": "home",
+      "label": "Home",
+      "url": "https://example.com",
+      "category": "general"
+    },
+    {
+      "key": "support",
+      "label": "Support Portal",
+      "url": "https://support.example.com",
+      "category": "help"
+    },
+    {
+      "key": "dashboard",
+      "label": "Analytics Dashboard",
+      "url": "https://analytics.example.com/dash",
+      "category": "analytics"
+    }
+  ]
+}
